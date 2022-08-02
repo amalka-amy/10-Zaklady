@@ -5,3 +5,8 @@
     padding: 5px 5px 5px 5px;
     line-height: calc(15px + 1em);
 }
+
+.barvapozadi{
+    background-color: black;
+    color:white;
+}
